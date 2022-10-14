@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Contacts() {
-  return <div>Contacts Added Here</div>;
+  return <p>Contacts Added Here</p>;
 }
